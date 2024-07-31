@@ -1,0 +1,5 @@
+result/
+o_venv
+.env
+.cache/
+.ipynb_checkpoints/
