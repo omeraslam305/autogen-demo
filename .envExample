@@ -1,0 +1,9 @@
+#LLM
+GROQ_API_KEY=''
+GROQ_API_KEY_2=''
+
+# Agentops
+API_KEY_AGENT_OPS=''
+
+#Applicaiton Logic
+LOG_LEVEL=info
